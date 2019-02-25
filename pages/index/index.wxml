@@ -1,0 +1,23 @@
+<!-- <view class='footer'>
+    <view class='list'>
+        <view class='label'></view>
+        <view class='list_text'></view>
+    </view>
+    
+</view> -->
+<view class='content'>
+  <view class='banner'>
+      <image src='/assets/images/indexBanner_02.jpg' mode="widthFix"></image>
+  </view>
+  <view class='push'>
+      新一期的报名活动于2019年1月1日开始
+  </view>
+  <view class='nav'>
+      <view><image src='/assets/images/list1.png' mode="widthFix"></image></view>
+      <view><image src='/assets/images/list2.png' mode="widthFix"></image></view>
+      <view><image src='/assets/images/list3.png' mode="widthFix"></image></view>
+      <view><image src='/assets/images/list4.png' mode="widthFix"></image></view>
+      <view><image src='/assets/images/list5.png' mode="widthFix"></image></view>
+      <view><image src='/assets/images/list6.png' mode="widthFix"></image></view>
+  </view>
+</view>

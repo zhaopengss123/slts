@@ -1,0 +1,17 @@
+<view class='content'>
+  <view class='banner'>
+      <image src='/assets/images/indexBanner_02.jpg' mode="widthFix"></image>
+  </view>
+  <view class='push'>
+      新一期的报名活动于2019年1月1日开始
+  </view>
+  <view class='detail_main'>
+    <view class='list'>
+        <image src='http://ylbb-app-mobile01.oss-cn-beijing.aliyuncs.com/929bd495-7fe1-4de2-b0ee-de7d85138cf8.jpg'></image>
+        <view class='list_font'>
+            <view> <text></text> <text></text> </view>
+            <view> <text></text> <text></text> </view>
+        </view>
+    </view>
+  </view>
+</view>

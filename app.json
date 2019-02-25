@@ -1,0 +1,14 @@
+{
+  "pages": [
+      "pages/index/index",
+      "pages/index/detail/detail",
+      "pages/search/search",
+      "pages/user/user"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d0751d",
+    "navigationBarTitleText": "丝路天使",
+    "navigationBarTextStyle": "white"
+  }
+}
